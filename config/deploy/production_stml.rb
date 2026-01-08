@@ -5,7 +5,7 @@ role :db,  %w{100.74.141.102}
 
 
 set :stage, :production
-set :branch, 'inferifi'
+set :branch, 'main'
 
 # used in case we're deploying multiple versions of the same
 # app side by side. Also provides quick sanity checks when looking
