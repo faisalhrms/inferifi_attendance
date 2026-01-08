@@ -257,7 +257,7 @@ GEM
     stringio (3.2.0)
     thor (1.5.0)
     timeout (0.6.0)
-    tiny_tds (3.4.0-x86_64-linux-gnu)
+    tiny_tds (3.4.0)
       bigdecimal (>= 2.0.0)
     tsort (0.2.0)
     tzinfo (2.0.6)
@@ -305,4 +305,4 @@ RUBY VERSION
    ruby 3.0.0p0
 
 BUNDLED WITH
-   2.4.22
+   2.2.3
