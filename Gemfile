@@ -22,6 +22,7 @@ gem "unirest"
 gem "spreadsheet"
 gem "whenever"
 gem "io-console", "0.5.6"
+gem "tsort", "0.2.0"
 
 # Build JSON APIs with ease [https://github.com/rails/jbuilder]
 # gem "jbuilder"
