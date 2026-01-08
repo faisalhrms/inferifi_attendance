@@ -21,7 +21,6 @@ gem "rest-client"
 gem "unirest"
 gem "spreadsheet"
 gem "whenever"
-gem "tiny_tds", "3.2.1"
 
 # Build JSON APIs with ease [https://github.com/rails/jbuilder]
 # gem "jbuilder"
